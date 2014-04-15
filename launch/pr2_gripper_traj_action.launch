@@ -1,0 +1,3 @@
+<launch>
+	<node name="pr2_gripper_traj_action_server" pkg="pr2_gripper_traj_action" type="pr2GripperTrajActionServer.py" respawn="false" output="screen"/>
+</launch>

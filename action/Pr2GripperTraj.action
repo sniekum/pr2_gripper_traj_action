@@ -1,0 +1,9 @@
+# Define the goal
+float64[] gripper_traj
+float64 dt
+---
+# Define the result
+bool success
+---
+# Define a feedback message
+uint32 points_complete
